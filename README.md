@@ -374,4 +374,4 @@ React, Vite, Tailwind CSS, Recharts, Leaflet, Node.js, Express, PostgreSQL, Redi
 
 ---
 
-> *GigShield is built for the Guidewire DEVTrails 2026 University Hackathon. All external API integrations use free tiers or sandbox/mock modes.*
+
